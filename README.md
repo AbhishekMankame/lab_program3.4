@@ -1,2 +1,2 @@
 # lab_program3.4
-This is a program on evaluation of postfix expression.
+this is a program on evaluation of postfix expression.
